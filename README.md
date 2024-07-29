@@ -32,8 +32,8 @@
 
 
 
-<a href = "https://leetcode.com/divyansh_2707/"><img alt="Contest rating and quantile" title="have a look at my leetcodde journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyansh_2707t&logo=leetcode&logoColor=yellow">
-      <a href="https://leetcode.com/divyansh_2707/">
+<a href = "https://leetcode.com/PrasoonRawat/"><img alt="Contest rating and quantile" title="have a look at my leetcodde journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrasoonRawat&logo=leetcode&logoColor=yellow">
+      <a href="https://leetcode.com/PrasoonRawat/">
 
 <a href = "https://leetcode.com/divyansh_2707/"><img alt="Contest rating and quantile" title="have a look at my leetcode journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyansh_2707&logo=leetcode&logoColor=yellow">
 

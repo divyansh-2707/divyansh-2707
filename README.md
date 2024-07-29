@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyansh-2707&show_icons=true&locale=en" alt="divyansh-2707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-2707&" alt="divyansh-2707" /></p>
+<a href = "https://leetcode.com/divyansh_2707/"><img alt="Contest rating and quantile" title="have a look at my leetcodde journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyansh_2707&logo=leetcode&logoColor=yellow">
+      <a href="https://leetcode.com/divyansh_2707/">
+<a href = "https://leetcode.com/divyansh_2707/"><img alt="Contest rating and quantile" title="have a look at my leetcodde journey" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyansh_2707&logo=leetcode&logoColor=yellow">
+<a href="https://leetcode.com/divyansh_2707/">
+         <img alt="Rating" title="This i my ranking on Leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdivyansh_2707&logo=leetcode&logoColor=yellow"/></a>

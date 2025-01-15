@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Singh</h1>
-<h3 align="center">Creative Coder (Problem Solver/Front-end/Machine Learning/Graphic Designing/Django Developer))</h3>
+<h3 align="center">Creative Coder (Problem Solver/Front-end/Machine Learning/Graphic Designing/Django Developer)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh-2707&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh-2707" /> </p>
 

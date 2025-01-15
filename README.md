@@ -30,6 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh-2707&" alt="divyansh-2707" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.django.com/?user=divyansh-2707&" alt="divyansh-2707" /></p>
 
 
 
